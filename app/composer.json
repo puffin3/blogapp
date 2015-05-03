@@ -1,0 +1,16 @@
+{
+    "name": "php_ci_book/blogapp",
+    "authors": [
+        {
+            "name": "puffin",
+            "email": "puffin.dev@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "Vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
